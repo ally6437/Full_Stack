@@ -1,0 +1,43 @@
+<div class="ml-6">
+<h1 class="title is-2"><%=@company.name %></h1>
+<!--%= paginate @companies %-->
+<p>
+  <strong>Market Cap: </strong>
+  $<%= @company.market_cap %>
+</p>
+<p>
+  <strong>Price: </strong>
+  $<%= @company.price %>
+</p>
+<p>
+  <strong>
+    Share Volumn:
+  </strong>
+  <%= @company.share_volume %> shares
+</p>
+<p>
+  <strong>Symbol:</strong>
+  <%= @company.symbol %>
+</p>
+<p>
+  <strong>Beta:</strong>
+  <%= @company.beta %>
+</p>
+<p>
+  <strong>EPS:</strong>
+  $<%= @company.eps %>
+</p>
+<% content_for(:html_title) {@company.name}%>
+<p>
+  <strong>
+    Industry:
+  </strong>
+  <%= link_to @company.industry.name, @company.industry %>
+</p>
+<p>
+  <strong>
+    Sector:
+  </strong>
+  <%= link_to @company.sector.name, @company.sector %>
+</p>
+</div>

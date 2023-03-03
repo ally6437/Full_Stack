@@ -1,0 +1,25 @@
+
+<div>
+
+  <div class="column">
+    <h2 class="title is-2">Nasdaq Top 100 Companies Rank by Market Cap</h2>
+    <ol class="ml-5">
+      <% @companies.each do |c|%>
+    <li>
+      <%= link_to c.name, c%>
+      <em>(<%= c.industry.name%>, <%= c.sector.name%>)</em>
+    </li>
+    <%end%>
+    </ol>
+    <p class="mt-3">
+     <strong><%= link_to 'see the full list of 108 companies', companies_path%></strong>
+    </p>
+    <p class="mt-2">
+     <strong><%= link_to 'see the full list of industries', industries_path%></strong>
+    </p>
+    <p class="mt-2">
+     <strong><%= link_to 'see the full list of sectors', sectors_path%></strong>
+    </p>
+    </div>
+
+</div>

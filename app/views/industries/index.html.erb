@@ -1,0 +1,12 @@
+<div class="ml-6">
+<h1 class="title is-2">Industries</h1>
+<ol>
+
+  <% @industries.each do |i| %>
+  <li>
+    <%= link_to i.name, i  %>
+    <em>(<%= pluralize i.company_count, "Company" %>)</em>
+  </li>
+  <%end%>
+</ol>
+</div>

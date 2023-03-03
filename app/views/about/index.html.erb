@@ -1,0 +1,27 @@
+<section class="section">
+  <div class="container">
+    <h1 class="title">Welcome to my website!</h1>
+    <div class="content">
+      <p>
+        Here, I provide information about the top companies
+        listed on NASDAQ. We use data from multiple sources including Kaggle and Yahoo Finance to
+        give you a comprehensive overview of each company.
+      </p>
+      <p>
+        My data is structured as follows:
+      </p>
+      <ul>
+        <li>I have a table called "companies" that holds information about each company, such as its name, ticker symbol, stock price, share volumn, market cap, EPS, beta and its sector and industry.</li>
+        <li>I also have a table called "industries" that information for all industries those top companies fall into</li>
+        <li>Finally, I have a table called "sectors" that holds information for all sectors those top companies belong to.</li>
+      </ul>
+      <p>
+        The data is related using the `companies` table as the primary key. The `industries` and `sectors` tables have a foreign key that links back to the `companies` table.
+      </p>
+      <p>
+        Here's an ERD diagram that shows the relationships between the different tables in the database:
+      </p>
+      <%= image_tag("ERD.png", alt: "ERD diagram") %>
+    </div>
+  </div>
+</section>

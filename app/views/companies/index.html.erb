@@ -1,0 +1,14 @@
+
+<h2 class="title is-3">NASDAQ Top 108 Companies Rank by Market Cap</h2>
+<!--%= paginate @companies %-->
+<div class="columns">
+<ol class="ml-6">
+  <% @companies.each do |m| %>
+  <li>
+  <%= link_to m.name, m %> with market cap of $<em><%= m.market_cap%></em>
+  </li>
+  <%end%>
+</ol>
+</div>
+<!--%= paginate @companies %-->
+

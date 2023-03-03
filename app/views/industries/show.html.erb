@@ -1,0 +1,29 @@
+<div class="ml-6">
+<h1 class="title is-2"><%= @industry.name %></h1>
+<p class='mb-5'>
+    <%= pluralize @industry.companies.count, "company" %> within Top 109 Nasdaq companies in this industry
+</p>
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Symbol</th>
+      <th>Market Cap</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @companies.each do |company| %>
+      <tr>
+        <td><%= company.name %></td>
+        <td><%= company.symbol %></td>
+        <td>$<%= company.market_cap %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+</div>
+
+
+
+
+

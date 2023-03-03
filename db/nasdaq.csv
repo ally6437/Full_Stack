@@ -1,0 +1,109 @@
+Rank_by_MarketCap,symbol,name,price,sector,industry,market_cap,share_volume,EPS,beta
+1,AAPL,Apple Inc. ,157.51,Technology,Computer Manufacturing,2699420000000,63429579,6.04,1.18
+2,MSFT,Microsoft Corporation ,289.56,Technology,Software—Infrastructure,2143430000000,22790662,9.39,0.91
+3,GOOG,Alphabet Inc.,2639.755,Technology,Internet and Information Services,1724720000000,900760,112.23,1.06
+4,AMZN,"Amazon.com, Inc. ",3009.07,Consumer Services,Internet Retail,1511270000000,2623915,64.78,1.11
+5,TSLA,"Tesla, Inc. ",832.59,Capital Goods,Auto Manufacturing,845709000000,20220068,4.9,2.05
+6,NVDA,NVIDIA Corporation ,242.095,Technology,Semiconductors,591325000000,50018107,3.85,1.41
+7,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,105.4,Technology,Semiconductors,537871000000,13405138,4.12,0.92
+8,FB,"Meta Platforms, Inc.",200.09,Technology,Internet and Information Services,537229000000,28787658,13.8,1.39
+9,NTES,"NetEase, Inc.",92.89,Technology,Electronic Gaming & Multimedia,516850000000,2801507,4.33,0.49
+10,UNH,UnitedHealth Group Incorporated ,491.72,Health Care,Medical Specialities,461996000000,2168033,18.08,0.87
+11,JNJ,Johnson & Johnson ,173.45,Health Care,Pharmaceutical,456388000000,5738775,7.81,0.71
+12,V,Visa Inc.,209.21,Miscellaneous,Business Services,435874000000,5650026,6.04,0.92
+13,WMT,Walmart Inc. ,144.09,Consumer Services,Retail Stores,399522000000,4949249,4.88,0.53
+14,JPM,JP Morgan Chase & Co. ,137.5838,Finance,Major Banks,402911000000,12188065,15.35,1.13
+15,XOM,Exxon Mobil Corporation ,76.52,Energy,Oil & Gas Production,323785000000,25806254,5.39,1.17
+16,BAC,Bank of America Corporation ,42.485,Finance,Major Banks,364847000000,34750780,3.56,1.41
+17,PG,Procter & Gamble Company,148.34,Consumer Non-Durables,Household & Personal Products,355988000000,3685288,5.66,0.47
+18,CVX,Chevron Corporation ,156.71,Energy,Integrated oil Companies,305104000000,14748805,8.14,1.13
+19,HD,"Home Depot, Inc.",326.95,Consumer Services,Home Improvement Retail,339242000000,2103211,15.52,1.06
+20,MA,Mastercard Incorporated ,340.27,Finance,Credit Services,330249000000,2463096,8.76,1.09
+21,PFE,"Pfizer, Inc. ",52.49,Health Care,Pharmaceutical,294607000000,20136413,3.85,0.76
+22,ABBV,AbbVie Inc. ,154.93,Health Care,Pharmaceutical,273936000000,4384646,6.45,0.8
+23,LLY,Eli Lilly and Company ,274.69,Health Care,Pharmaceutical,261591000000,1747187,6.14,0.41
+24,KO,Coca-Cola Company,58.86,Consumer Non-Durables,Beverages,254963000000,9878044,2.26,0.66
+25,DIS,Walt Disney Company,137.2,Consumer Services,Entertainment,247096000000,6775126,1.68,1.17
+26,AVGO,Broadcom Inc. ,598.05,Technology,Semiconductors,240608000000,1401033,17.54,1
+27,COST,Costco Wholesale Corporation ,537.825,Consumer Services,Retail Stores,236852000000,1935283,12.41,0.66
+28,BABA,Alibaba Group Holding Limited,103.29,Consumer Services,Internet Retail,263483000000,119603599,3.73,0.88
+29,NVO,Novo Nordisk A/S ,105.475,Health Care,Pharmaceutical,237380000000,827256,3.3,0.49
+30,CSCO,"Cisco Systems, Inc. ",55.29,Technology,Computer peripheral equipment,228583000000,11313582,2.8,0.97
+31,VZ,Verizon Communications Inc. ,52.125,Public Utilities,Telecommunications Equipment,219147000000,16817403,5.33,0.4
+32,TM,Toyota Motor Corporation ,170.77,Capital Goods,Auto Manufacturing,233295000000,273447,20.17,0.48
+33,PEP,"PepsiCo, Inc. ",158.24,Consumer Non-Durables,Beverages,218668000000,2913619,5.49,0.64
+34,ORCL,Oracle Corporation ,79.22,Technology,Software—Infrastructure,208503000000,7944268,2.61,0.83
+35,TMO,Thermo Fisher Scientific Inc ,556.88,Healthcare,Diagnostics & Research,216114000000,906115,19.45,0.82
+36,CMCSA,Comcast Corporation,45.6,Consumer Services,Television Services,206035000000,10650759,3.03,0.93
+37,ABT,Abbott Laboratories ,118.09,Health Care,Medical Devices,207192000000,2489735,3.94,0.76
+38,MRK,"Merck & Company, Inc. ",77.7,Health Care,Pharmaceutical,196645000000,5375355,5.14,0.44
+39,ACN,Accenture plc,320.81,Technology,EDP Services,200338000000,1852870,9.61,1.24
+40,ADBE,Adobe Inc. ,435.325,Technology,Software—Infrastructure,203491000000,2564899,10.02,1.05
+41,CRM,Salesforce.com Inc ,201.92,Technology,Software—Infrastructure,196169000000,3472915,1.5,1.1
+42,NKE,"Nike, Inc. ",123.6,Consumer Non-Durables,Shoe Manufacturing,193582000000,6195008,3.82,0.97
+43,SHEL,Royal Dutch Shell PLC,49.87,Energy,Oil & Gas Production,188666000000,3133538,5.16,0.8
+44,DHR,Danaher Corporation ,275.18,Health Care,Medical Specialities,194554000000,2025336,8.62,0.77
+45,AZN,AstraZeneca PLC,61.55,Health Care,Pharmaceutical,190333000000,3784330,0.14,0.46
+46,INTC,Intel Corporation ,46.08,Technology,Semiconductors,186538000000,22317842,4.86,0.55
+47,WFC,Wells Fargo & Company ,51.059,Finance,Major Banks,193463000000,20396596,4.98,1.18
+48,NVS,Novartis AG ,84.05,Health Care,Pharmaceutical,187109000000,1910865,10.65,0.51
+49,UPS,"United Parcel Service, Inc. ",215.3701,Transportation,Integrated Freight & Logistics,186473000000,1562863,14.69,1.12
+50,BHP,BHP Group Limited,66.2,Industrials,Precious Metals,166310000000,3801628,7.19,0.88
+51,QCOM,QUALCOMM Incorporated ,148.3323,Technology,Computer peripheral equipment,164895000000,7239006,8.73,1.25
+52,AMD,"Advanced Micro Devices, Inc. ",114.121,Technology,Semiconductors,183502000000,85099843,2.58,1.85
+53,MCD,McDonald's Corporation ,236.63,Consumer Services,Restaurants,175493000000,2507178,10.04,0.61
+54,UNP,Union Pacific Corporation ,260.925,Transportation,Railroads,166307000000,2277621,9.95,1.17
+55,T,AT&T Inc.,23.04,Consumer Services,Telecommunications Equipment,164394000000,23247989,2.76,0.68
+56,TXN,Texas Instruments Incorporated ,174.635,Technology,Semiconductors,160235000000,2865770,8.26,0.94
+57,NEE,"NextEra Energy, Inc. ",81.8001,Public Utilities,Electric Utilities,159336000000,5227781,1.81,0.37
+58,TMUS,"T-Mobile US, Inc. ",127.3188,Public Utilities,Telecommunications Equipment,158660000000,2568183,2.41,0.5
+59,RY,Royal Bank Of Canada ,110.475,Finance,Major Banks,155446000000,829903,8.99,0.92
+60,SCHW,Charles Schwab Corporation,88.19,Finance,Capital Markets,165812000000,6143725,2.82,1.01
+61,MS,Morgan Stanley ,91.16,Finance,Capital Markets,160762000000,11567923,8.03,1.49
+62,NFLX,"Netflix, Inc. ",351.76,Consumer Services,Entertainment,154774000000,4832163,11.24,0.99
+63,BMY,Bristol-Myers Squibb Company ,69.31,Health Care,Pharmaceutical,151011000000,9179157,3.12,0.54
+64,LOW,"Lowe's Companies, Inc. ",228.31,Consumer Services,Home Improvement Retail,152445000000,1995144,11.97,1.34
+65,RTX,Raytheon Technologies Corporation ,95.145,Capital Goods,Aerospace & Defense,141054000000,5748692,2.57,1.02
+66,LIN,Linde plc,302.524,Industrials,Major Chemicals,152440000000,2466310,7.32,0.93
+67,TD,Toronto Dominion Bank,79.21,Finance,Major banks,142282000000,1452136,6.36,0.98
+68,MDT,Medtronic plc.,106.24,Health Care,Medical Devices,141868000000,3019606,3.63,0.74
+69,PM,Philip Morris International Inc ,93.3628,Consumer Non-Durables,Tobacco,144661000000,3799310,5.83,0.78
+70,CVS,CVS Health Corporation ,105.84,Health Care,Managed Health Care,139205000000,3000683,5.96,0.82
+71,SPGI,S&P Global Inc. ,388.78,Technology,Advertising,137158000000,1045766,12.51,1.04
+72,TTE,TotalEnergies SE,49.79,Energy,Oil & Gas Production,128577000000,2228638,5.91,0.85
+73,COP,ConocoPhillips ,94.53,Energy,Integrated oil Companies,122935000000,5771257,6.06,1.41
+74,AXP,American Express Company ,178.21,Finance,Credit Services,134664000000,2918169,9.99,1.12
+75,AMGN,Amgen Inc. ,229.36,Health Care,Pharmaceutical,127894000000,1383039,10.31,0.58
+76,SAP,SAP SE ADS,113.09,Technology,Software—Infrastructure,132160000000,640992,5.27,1.16
+77,SNY,Sanofi ADS,51.51,Health Care,Pharmaceutical,128246000000,1183941,2.94,0.56
+78,HSBC,"HSBC Holdings, plc. ",32.51,Finance,Savings Institutions,130559000000,3564275,3.1,0.58
+79,HON,Honeywell International Inc. ,188.86,Industrials,Conglomerates,129062000000,2053629,7.92,1.15
+80,INTU,Intuit Inc. ,451.78,Technology,Software—Infrastructure,126214000000,1353619,7.84,1.14
+81,SONY,Sony Group Corporation,101.82,Consumer Non-Durables,Consumer Electronics,125051000000,613020,6.35,0.79
+82,LMT,Lockheed Martin Corporation ,418.965,Capital Goods,Aerospace,111640000000,3637093,22.76,0.8
+83,DE,Deere & Company ,385.36,Capital Goods,Industrial Machinery,117934000000,1595153,18.04,0.98
+84,RIO,Rio Tinto Plc ,72.09,Industrials,Steel,115877000000,4740419,7.62,0.54
+85,CAT,"Caterpillar, Inc. ",213.76,Capital Goods,Constructionullg Equipment,114442000000,2891696,11.84,0.94
+86,CHTR,"Charter Communications, Inc.",566.67,Consumer Services,Television Services,115696000000,708705,24.83,0.96
+87,UL,Unilever PLC ,44.81,Consumer Non-Durables,Household & Personal Products,114494000000,3084905,3.17,0.43
+88,PYPL,"PayPal Holdings, Inc. ",105.965,Finance,Credit Services,122675000000,18422880,3.52,1.29
+89,ANTM,"Anthem, Inc. ",464,Health Care,Medical Specialities,111883000000,900831,24.72,1.04
+90,IBM,International Business Machines Corporation ,125.53,Technology,EDP Services,112603000000,2253025,6.35,1.11
+91,GS,"Goldman Sachs Group, Inc.",337.47,Finance,Capital Markets,113485000000,1921879,59.36,1.48
+92,PLD,"Prologis, Inc. ",152.9325,Consumer Services,Real Estate Investment Trusts,112484000000,1935659,3.94,0.85
+93,AMAT,"Applied Materials, Inc. ",128.36,Capital Goods,Industrial Machinery,112929000000,4785808,7.19,1.41
+94,C,"Citigroup, Inc. ",56.36,Finance,Major Banks,111277000000,18470022,10.08,1.7
+95,AMT,American Tower Corporation,237.62,Real Estate,REIT—Specialty,107999000000,1004146,5.67,0.46
+96,HDB,HDFC Bank Limited ,61.42,Finance,Major Banks,112852000000,912015,2.63,0.76
+97,BLK,"BlackRock, Inc. ",718.55,Finance,Capital Markets,108821000000,748664,38.21,1.23
+98,EQNR,Equinor ASA,32.06,Energy,Integrated oil Companies,103454000000,3627037,2.64,0.98
+99,GSK,GlaxoSmithKline PLC ,41.8365,Health Care,Pharmaceutical,105935000000,3686085,2.4,0.72
+100,BA,Boeing Company,186.34,Capital Goods,Aerospace,108873000000,9104040,0.31,1.41
+101,NOW,"ServiceNow, Inc. ",536.365,Technology,Software—Infrastructure,104998000000,999139,1.14,1.06
+102,GE,General Electric Company ,93.7506,Consumer Durables,Metal Fabrications,102499000000,3475841,0.32,1.23
+103,INFY,Infosys Limited,24.72,Technology,EDP Services,103025000000,5297810,0.68,0.92
+104,ISRG,"Intuitive Surgical, Inc. ",273.74,Health Care,Medical Instruments,98135621417,1417173,4.67,1.17
+105,BUD,Anheuser-Busch Inbev,59.35,Consumer Non-Durables,Beverages,102355000000,1416871,2.33,1.47
+106,TGT,Target Corporation ,213.8069,Consumer Services,Retail Stores,98425687264,1566138,14.07,1.06
+107,SBUX,Starbucks Corporation ,86.7,Consumer Services,Restaurants,99708004000,16969898,3.71,0.9
+108,EL,"Estee Lauder Companies, Inc.",269.985,Consumer Non-Durables,Household & Personal Products,96190773999,1136942,8.85,1.1
