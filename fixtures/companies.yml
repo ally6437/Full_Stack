@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  symbol: MyString
+  price: 9.99
+  beta: 9.99
+  share_volume: 1
+  eps: 9.99
+  market_cap: 1
+  rank_by_marketCap: 1
+  sector: one
+  industry: one
+
+two:
+  name: MyString
+  symbol: MyString
+  price: 9.99
+  beta: 9.99
+  share_volume: 1
+  eps: 9.99
+  market_cap: 1
+  rank_by_marketCap: 1
+  sector: two
+  industry: two
